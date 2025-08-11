@@ -1,4 +1,8 @@
 # Getting Started
+
+PROJECT LIVE ON:  https://firebase-scrimba.netlify.app/
+
+
 Install the dependencies and run the project
 ```
 npm install
