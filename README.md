@@ -1,6 +1,6 @@
 # Getting Started
 
-SITE LIVE ON https://firebase-scrimba.netlify.app/
+SITE LIVE ON : https://firebase-scrimba.netlify.app/
 
 Install the dependencies and run the project
 ```
